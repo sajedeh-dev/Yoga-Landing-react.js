@@ -1,12 +1,43 @@
-# React + Vite
+# 🧘 Yoga Landing Page  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and minimal landing page designed and developed with **React, TailwindCSS, and Framer Motion**.  
+The project focuses on clean design, smooth animations, and a responsive user experience.  
 
-Currently, two official plugins are available:
+🔗 [Live Demo](https://yoga-landing-react-js.vercel.app)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Minimal & clean UI design  
+- Fully responsive (mobile, tablet, desktop)  
+- Built with **TailwindCSS** for fast and modern styling  
+- Smooth animations with **Framer Motion**  
+- Custom design created from scratch  
+
+---
+
+## 🛠 Tech Stack  
+
+- **React.js**  
+- **TailwindCSS**  
+- **Framer Motion**  
+- **Vite** (for build & development)  
+
+---
+
+## 🚀 Getting Started  
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/yoga-landing.git
+
+# Navigate to the project folder
+cd yoga-landing
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
