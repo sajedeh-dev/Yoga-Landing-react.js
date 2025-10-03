@@ -4,18 +4,18 @@ function FeatureSection() {
   const features = [
     {
       icon: "🔍",
-      title: "Find out what you need",
-      description: "We present you a proposal and discuss nitty-gritty like",
+      title: "Discover your path",
+      description: "Explore different yoga styles and find the one that aligns with your goals—whether it’s relaxation, strength, or flexibility.",
     },
     {
       icon: "⚙️",
-      title: "Work out the details",
-      description: "Communication protocols apart from engagement models",
+      title: "Build your routine",
+      description: "Create a consistent practice with guided sessions designed to fit your lifestyle and personal needs.",
     },
     {
       icon: "🚀",
-      title: "We get to work fast",
-      description: "Protocols apart from engage models, pricing billing",
+      title: "Feel the change",
+      description: "Experience improved focus, reduced stress, and a healthier body as yoga becomes part of your everyday life.",
     },
   ];
   return (
@@ -23,10 +23,10 @@ function FeatureSection() {
       {/* heading text */}
       <div className="text-center">
         <h2 className="text-3xl font-bold mb-4">
-          How can we help your business?
+          How can Yoga help your life?
         </h2>
         <p className="text-gray-600">
-          when you resell besnik you bild trust and increace
+          Through mindful practice, yoga builds trust in your body and increases inner peace.
         </p>
       </div>
       {/* features box */}

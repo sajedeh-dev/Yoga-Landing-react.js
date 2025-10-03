@@ -35,7 +35,7 @@ function Category() {
         return (
           <div
             key={index}
-            className="bg-red-100 shadow-orange-100 border-1 border-orange-200  p-4 rounded-2xl  rounded-tr-[80px]  shadow-md text-center"
+            className=" shadow-orange-100 border-1 border-orange-200  p-4 rounded-2xl  rounded-tr-[80px]  shadow-md text-center"
           >
             <img
             

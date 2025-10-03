@@ -7,20 +7,20 @@ function ServicesSection() {
   const services = [
     {
       icon: <BsStack className="w-8 h-8 text-indigo-600" />,
-      title: "Web Design",
-      description: "One for all and all for one, Muskehounds are always ready.",
+      title: "Yoga & Mindfulness",
+      description: "Learn techniques to calm the mind, improve focus, and cultivate inner peace.",
       link: "#learn-more",
     },
     {
       icon: <HiLightBulb className="w-8 h-8 text-amber-400" />,
-      title: "Ad-Creatives",
-      description: "Alphabet Village and the subline of her own road.",
+      title: "Breath & Meditation",
+      description: "Master breathing exercises to energize your body and release stress.",
       link: "#learn-more",
     },
     {
       icon: <FiSettings className="w-8 h-8 text-red-400" />,
-      title: "Automation",
-      description: "Little Blind Text should turn around and return.",
+      title: "Yoga for Everyone",
+      description: "Little Blind Text should turn around and return.From beginners to advanced.",
       link: "#learn-more",
     },
     {
@@ -36,10 +36,10 @@ function ServicesSection() {
         {/* header */}
         <div className=" md:w-1/3 w-full ">
           <h2 className="text-3xl md:text-4xl font-bold mb-6 md:w-4/5 ">
-            Future of support with new shape{" "}
+            Future of wellness with Yoga{" "}
           </h2>
           <p className="text-gray-600 text-lg mb-4 md:w-4/5">
-            Discuss your goals, determine success metrics , identyfy problems
+           Discover your goals, measure your progress, and overcome obstacles on your journey to balance.
           </p>
           <div className="space-y-3">
             <div className="flex items-center gap-2">

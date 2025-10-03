@@ -3,14 +3,14 @@ import React from "react";
 function PurposeSection() {
      const features = [
     {
-      icon: "🟣", // Replace with your actual icon component or image
-      title: "Built for impact",
-      description: "We identify and nurture a truly diverse team of designers, developers and marketers"
+      icon: "💚", // Replace with your actual icon component or image
+      title: "Built for wellness",
+      description: "Yoga helps cultivate strength, flexibility, and inner calm through mindful movement and breathing."
     },
     {
-      icon: "🔴", // Replace with your actual icon component or image
-      title: "In sync with you",
-      description: "We work the way you do by adapting to your workflows and rhythm we aim to blend in for a seamless."
+      icon: "🧡", // Replace with your actual icon component or image
+      title: "In harmony with you",
+      description: "Every practice is designed to adapt to your pace and lifestyle, guiding you toward balance and peace."
     }
   ];
 
@@ -23,7 +23,7 @@ function PurposeSection() {
                 ACHIEVE MORE
                 </p>
                 <h2 className="text-3xl md:w-4/5 w-full md:text-4xl font-bold text-gray-900">
-                Purpose of a convoy is to keep your team
+                Purpose of Yoga is to balance your mind and body🌿
                 </h2>
           </div>
 

@@ -29,6 +29,7 @@ function Navbar() {
         <div className="flex items-center gap-1 cursor-pointer">
           <div className="w-4 h-4 bg-[#303030] rounded-full opacity-75 hover:opacity-100 transition-opacity"></div>
           <div className="w-4 h-4 bg-[#FF862F] -ml-2 rounded-full opacity-100 hover:opacity-75 transition-opacity"></div>
+          <h1 className="text-md font-bold text-orange-600">GOYOGA</h1>
         </div>
 
         {/* mobile menu button */}
